@@ -26,9 +26,6 @@ Tool: Autodesk Fusion 360
 | Motor dan driver | PPN13 & L289N |
 | Berat | 2.95 KG |
 
-## Kode Program
-Folder `code/` berisi program kontrol robot yang ditulis oleh **[nama penulis kode]**.
-Kode ini disertakan sebagai dokumentasi lengkap robot, bukan hasil kerja saya.
 
 ## Tim
 Aniza Helwa M. : Programming Robot
